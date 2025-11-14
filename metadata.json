@@ -1,0 +1,5 @@
+{
+  "name": "CAT Exam Simulator",
+  "description": "An online exam taking application that simulates the CAT test environment. Users can input questions, take a timed test with negative marking, and review their answers after submission.",
+  "requestFramePermissions": []
+}
